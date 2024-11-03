@@ -40,3 +40,11 @@ python main.py
 
 **!Note**
 - The script will create directories named after each patch number and download the following files into them.
+
+## URL
+
+- SEA: `http://patchsea.dragonnest.com/Game/DragonNest/Patch/`
+- SDO: `NA`
+- KR: `NA`
+- TH: `NA`
+- JP: `NA`
