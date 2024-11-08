@@ -45,6 +45,6 @@ python main.py
 
 - SEA: `http://patchsea.dragonnest.com/Game/DragonNest/Patch/`
 - SDO: `NA`
-- KR: `NA`
+- KR: `http://patchkr.dragonnest.com/Patch/`
 - TH: `NA`
 - JP: `NA`
