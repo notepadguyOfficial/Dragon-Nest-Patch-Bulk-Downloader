@@ -44,7 +44,6 @@ python main.py
 ## URL
 
 - SEA: `http://patchsea.dragonnest.com/Game/DragonNest/Patch/`
-- SDO: `NA`
 - KR: `http://patchkr.dragonnest.com/Patch/`
-- TH: `NA`
-- JP: `NA`
+- US: `http://patchus.dragonnest.com/Game/DragonNest/Patch/`
+- JP: `http://patchjp.dragonnest.com/Game/Patch/`
